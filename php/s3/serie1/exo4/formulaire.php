@@ -28,8 +28,7 @@ $styleTableau=" style='border: ".$epaisseurLigne."px solid black'";
         }
 #endregion
         $contenuLignes.="<TR>".$contenuColonnes."</TR>";
-    }
-    
+    }    
 ?>
 <!DOCTYPE html>
 <html lang="fr-FR">
